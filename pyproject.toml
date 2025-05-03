@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "q1xlab"
 version = "0.1.0"
-description = "Example code repository demonstrating Qiskit 1.4 features in action, including Qiskit Runtime and SQD setup."
+description = "Example code repository demonstrating Qiskit 1.4 features in action"
 authors = ["Inaki Ortiz de Landaluce <inaki.ortizdelandaluce@gmail.com"]
 license = "MIT"
 readme = "README.md"
