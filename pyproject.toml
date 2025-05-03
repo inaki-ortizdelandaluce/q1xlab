@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "q1xlab"
+version = "0.1.0"
+description = "Example code repository demonstrating Qiskit 1.4 features in action, including Qiskit Runtime and SQD setup."
+authors = ["Inaki Ortiz de Landaluce <inaki.ortizdelandaluce@gmail.com"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "qiskit_1x_in_action"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+qiskit = {version = "^1.4", extras = ["sqd", "runtime"]}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
