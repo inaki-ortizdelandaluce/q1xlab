@@ -1,2 +1,2 @@
-# qiskit-1.x-in-action
+# Qiskit - 1.x In Action
 Coding With Qiskit - 1.x
