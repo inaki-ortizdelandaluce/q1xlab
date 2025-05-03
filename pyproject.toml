@@ -2,7 +2,7 @@
 name = "q1xlab"
 version = "0.1.0"
 description = "Example code repository demonstrating Qiskit 1.4 features in action"
-authors = ["Inaki Ortiz de Landaluce <inaki.ortizdelandaluce@gmail.com"]
+authors = ["Inaki Ortiz de Landaluce <inaki.ortizdelandaluce@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [{include = "qiskit_1x_in_action"}]
